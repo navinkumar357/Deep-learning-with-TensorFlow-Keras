@@ -1,2 +1,2 @@
 # Deep-learning-with-TensorFlow-Keras
- Various Classifiers using Deep NNs
+ Various models built using Deep NNs and tensorflow as backend running Keras.
